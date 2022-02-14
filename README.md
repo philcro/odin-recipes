@@ -1,7 +1,7 @@
 # odin-recipes
 Recipes Project (First project) 
 
-This is my first main project
+This is my first basic HTML project with the Odon Project
 
 Everything learnt to this point in regards to HTML I will now put into practice and build 
 A nice recipe website, mainly consisting of the index page (homepage) and a few links to the recipe pages.
